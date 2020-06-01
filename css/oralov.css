@@ -1,0 +1,45 @@
+.button{
+    background-color: aqua;
+    margin-top: 10px;
+    padding: 10px;
+    width:40%;
+    text-align: center;
+    display: block;
+    color: black;
+
+}
+
+a:link{
+    text-decoration: none;
+    
+
+}
+.img{
+    width: 50px;
+    height: 39px;
+    padding: 5px;
+}
+
+#imgCont{
+    display: grid; 
+}
+
+#cont{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+#menu{
+    position: relative;
+    left: 15%;
+    
+}
+
+#back{
+
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+
